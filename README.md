@@ -15,7 +15,8 @@ I am a final year student at Trakya University Computer Engineering. I want to i
 - 📫 How to reach me **mefarukakbulut@gmail.com**
 
 - ⚡ Fun fact **I just saw my life flash before my eyes and all I could see was a close tag…**
-<img src="https://gifdb.com/images/file/two-pikachu-eating-together-dlygkysdwo3hvnqh.gif" width="180">
+
+⚡⚡<img src="https://gifdb.com/images/file/two-pikachu-eating-together-dlygkysdwo3hvnqh.gif" width="180">⚡⚡
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-faruk-akbulut-692340236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-faruk-akbulut-692340236" height="30" width="40" /></a>
