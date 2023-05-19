@@ -14,8 +14,6 @@ I am a final year student at Trakya University Computer Engineering. I want to i
 
 - 📫 How to reach me **mefarukakbulut@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tx1y0VKVI8RSGi53Gsxr1wshb8j5orIB/view?usp=sharing](https://drive.google.com/file/d/1tx1y0VKVI8RSGi53Gsxr1wshb8j5orIB/view?usp=sharing)
-
 - ⚡ Fun fact **I just saw my life flash before my eyes and all I could see was a close tag…**
 
 <h3 align="left">Connect with me:</h3>
