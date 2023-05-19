@@ -1,6 +1,8 @@
+# <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="80">  About Me:
 <h1 align="center">Hi 👋, I'm Mehmet Faruk Akbulut</h1>
 <h3 align="center">A passionate Software Engineer from Istanbul,Turkey</h3>
-<img align="right" alt="Coding" width="400" src="[[https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif](https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966)...](https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966)...">
+I am a final year student at Trakya University Computer Engineering. I want to improve myself and continue to learn new things about software that I am interested in in all areas of my life. I design mobile application projects with the knowledge I have gained on this subject. I am doing a graduation project on Cyber Security. I want to improve myself in a company that will improve my skills, help me use what I have learned in practical life, and where I can take responsibility.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfarukakbulut&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetfarukakbulut" /> </p>
 
@@ -30,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetfarukakbulut&show_icons=true&locale=en" alt="mehmetfarukakbulut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetfarukakbulut&" alt="mehmetfarukakbulut" /></p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
