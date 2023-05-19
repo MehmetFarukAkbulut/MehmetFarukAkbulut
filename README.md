@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="80">  About Me: <img src="https://gifdb.com/images/file/two-pikachu-eating-together-dlygkysdwo3hvnqh.gif" width="180">
+# <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="80">  About Me: 
 <h1 align="center">Hi 👋, I'm Mehmet Faruk Akbulut</h1>
 <h3 align="center">A passionate Software Engineer from Istanbul,Turkey</h3>
 I am a final year student at Trakya University Computer Engineering. I want to improve myself and continue to learn new things about software that I am interested in in all areas of my life. I design mobile application projects with the knowledge I have gained on this subject. I am doing a graduation project on Cyber Security. I am driven by my passion for Software development. I am constantly exploring new technologies and seeking knowledge to become a skilled Software developer. Through my academic pursuits and personal projects, I am honing my skills and gaining valuable experience in the field of computer science. With my strong work ethic and dedication to learning, I am confident that I will achieve my goal of becoming a successful Software developer.
@@ -15,7 +15,7 @@ I am a final year student at Trakya University Computer Engineering. I want to i
 - 📫 How to reach me **mefarukakbulut@gmail.com**
 
 - ⚡ Fun fact **I just saw my life flash before my eyes and all I could see was a close tag…**
-
+<img src="https://gifdb.com/images/file/two-pikachu-eating-together-dlygkysdwo3hvnqh.gif" width="180">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-faruk-akbulut-692340236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-faruk-akbulut-692340236" height="30" width="40" /></a>
