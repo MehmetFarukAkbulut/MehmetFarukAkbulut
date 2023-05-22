@@ -20,7 +20,7 @@ I am a final year student at Trakya University Computer Engineering. I want to i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehmet-faruk-akbulut-692340236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-faruk-akbulut-692340236" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/mehmet-faruk-akbulut-692340236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-faruk-akbulut-692340236" height="70" width="70" /></a>  
 <a href="https://instagram.com/mfaruk_akbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfaruk_akbulut" height="70" width="70" /></a>
 </p>
 
