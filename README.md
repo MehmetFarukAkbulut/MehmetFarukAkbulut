@@ -8,7 +8,7 @@ I am a final year student at Trakya University Computer Engineering. I want to i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfarukakbulut&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetfarukakbulut" /> </p>
 
-- 🔭 I’m currently working on [0-to-Grand-Master-Python-Programming](https://github.com/MehmetFarukAkbulut/0-to-Grand-Master-Python-Programming) and [My new Cyber Security Website: ](https://siberguvenlik8.wordpress.com)
+- 🔭 I’m currently working on [0-to-Grand-Master-Python-Programming](https://github.com/MehmetFarukAkbulut/0-to-Grand-Master-Python-Programming)           and [My new Cyber Security Website.](https://siberguvenlik8.wordpress.com)
 
 - 🌱 I’m currently learning **Python, C++**
 
