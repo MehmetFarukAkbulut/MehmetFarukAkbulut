@@ -32,5 +32,3 @@ I am a senior year student at Trakya University Computer Engineering. I want to 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetfarukakbulut&show_icons=true&locale=en" alt="mehmetfarukakbulut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetfarukakbulut&" alt="mehmetfarukakbulut" /></p>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
