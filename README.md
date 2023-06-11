@@ -1,6 +1,6 @@
 #
 <h1 align="center">  About Me:  </h1></p>
- <p align="center"> <img  src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif"   width="80">
+ <p align="center"> <img  src="https://media.giphy.com/media/8OPvIhcHkUUCGgkEzW/giphy.gif"   width="80">
 
 <h3 align="center">Hi 👋, I'm Mehmet Faruk Akbulut. A passionate Software Engineer from Istanbul,Turkey</h3>
 I am a senior year student at Trakya University Computer Engineering. I want to improve myself and continue to learn new things about software that I am interested in in all areas of my life. I design mobile application projects with the knowledge I have gained on this subject. I am doing a graduation project on Cyber Security. I am driven by my passion for Software development. I am constantly exploring new technologies and seeking knowledge to become a skilled Software developer. Through my academic pursuits and personal projects, I am honing my skills and gaining valuable experience in the field of computer science. With my strong work ethic and dedication to learning, I am confident that I will achieve my goal of becoming a successful Software developer.
