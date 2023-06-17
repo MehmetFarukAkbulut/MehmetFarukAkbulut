@@ -32,3 +32,4 @@ I am a senior year student at Trakya University Computer Engineering. I want to 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetfarukakbulut&show_icons=true&locale=en" alt="mehmetfarukakbulut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetfarukakbulut&" alt="mehmetfarukakbulut" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehmetfarukakbulut&theme=codestackr&hide_border=true&locale=tr&hide_total_contributions=true)](https://git.io/streak-stats)
