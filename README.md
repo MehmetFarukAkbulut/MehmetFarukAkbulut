@@ -32,5 +32,5 @@ I am a senior year student at Trakya University Computer Engineering. I want to 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetfarukakbulut&show_icons=true&locale=en" alt="mehmetfarukakbulut" /></p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mehmetfarukakbulut&hide_border=true&locale=tr&hide_total_contributions=true"/></a>
+<a href="https://github.com/MehmetFarukAkbulut"><img src="https://github-readme-streak-stats.herokuapp.com?user=mehmetfarukakbulut&hide_border=true&locale=tr&hide_total_contributions=true"/></a>
 
