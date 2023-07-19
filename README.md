@@ -10,7 +10,7 @@ I am a senior student at Trakya University Computer Engineering. I want to impro
 
 - 🔭 I’m currently [Learning Python](https://github.com/MehmetFarukAkbulut/0-to-Grand-Master-Python-Programming) and working on [My new Cyber Security Website.](https://siberguvenlik8.wordpress.com)
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Machine Learning with Python and Java Object Oriented Programming**
 
 - 💬 Ask me about **C, SQL, ReactNative, Python, React.js**
 
