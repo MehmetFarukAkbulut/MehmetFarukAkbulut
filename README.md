@@ -3,7 +3,7 @@
  <p align="center"> <img  src="https://media.giphy.com/media/8OPvIhcHkUUCGgkEzW/giphy.gif"   width="400">
 
 <h3 align="center">A passionate Software Engineer from Istanbul,Turkey</h3>
-As a technology enthusiast who graduated from Trakya University, Department of Computer Engineering, I work in a Technical Support position at Prodenso Information Technologies. During my time here, I have been constantly improving myself in areas such as Network Monitoring, SQL query writing and Python automation.
+As a technology enthusiast who graduated from Trakya University, Department of Computer Engineering, I work in a Technical Support position at [Prodenso Information Technologies](https://www.prodenso.com.tr). During my time here, I have been constantly improving myself in areas such as Network Monitoring, SQL query writing and Python automation.
 I actively take part in projects to make our company's technological infrastructure more effective and increase operational efficiency. I am very excited about the opportunity to learn something new every day and apply this knowledge in the world of information technologies.
 I'm here to diversify the connections in my network and share my experiences. I look forward to meeting you and doing great work together!
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
